@@ -32,7 +32,8 @@
 
 
 ## Перечень всех веток
-* master
+* master 
+* Спасибо 
 * develop
 * minimath
 * ui_components
